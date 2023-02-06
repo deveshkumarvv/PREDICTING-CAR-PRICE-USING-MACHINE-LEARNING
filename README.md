@@ -21,4 +21,4 @@ Benefits of Solution:
 
 Solution Use:
 	 When we work on these sorts of data, we can make a model which can give us a good prediction on the price of the Car Price based on other variables. We are going to use Linear Regression and some other ML algorithms for this dataset and see if it gives us a good accuracy or not.
-![image](https://user-images.githubusercontent.com/73349976/216893175-cd744fcb-46ce-4928-a48e-b45b70f28227.png)
+
