@@ -1,13 +1,15 @@
 # PREDICTING-CAR-PRICE-USING-MACHINE-LEARNING
 
-#Informal Description(Ill Posed Problem)
+# Informal Description(Ill Posed Problem)
+
 We have to predict the car price based upon the kilometres run, years of service, the number of previous owners, brand, fuel type, transmission type. 
 
-#Formal Description
+# Formal Description
+
 We are making the use of data available with price of the cars in the present market keeping all the important factors in mind and calculating an estimated price in the present date without asking help from a third party. Our model will calculate the estimated price will depend on the various factors and current news.
 We will make a model with the right amount of test data so that it wouldn’t depend on some bad reviews or results made by few customers. 
 
-#Motivation:
+# Motivation:
 
 Cars are something which mean so much to a person, being a car enthusiast myself. I thought if I were to buy a new car it would cost a lot from a showroom. On the other hand, we all know that a car loses at least 15% of its value the moment it is out of a showroom. 
 
@@ -16,10 +18,10 @@ Realistically speaking second hand cars might look like a better deal in the lon
 So, we provide a model based on various factors so that a customer can enter all the details of the car and the model would predict an estimated value of the car.
 	
 
-#Benefits of Solution:
+# Benefits of Solution:
 
 If  benefits us personally, the proposed framework for our model includes data cleaning, data pre-processing, applying classifiers on the data and finally comparing the results from the different classification models we used. So, by the end of this project if we have done it Successfully, we can say that we have got idea of them.
 
-#Solution Use:
+# Solution Use:
 When we work on these sorts of data, we can make a model which can give us a good prediction on the price of the Car Price based on other variables. We are going to use Linear Regression and some other ML algorithms for this dataset and see if it gives us a good accuracy or not.
 
